@@ -1,4 +1,4 @@
-# Soul Wallet Plugin
+# DA Wallet Plugin
 
 + We will debug at any time, not a stable version~! 🚧
 
